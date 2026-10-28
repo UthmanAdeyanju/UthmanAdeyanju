@@ -20,11 +20,15 @@
 
 ---
 
-## About This Account
+## About Me
 
-This is my second GitHub account. It holds my machine learning models, LLM agents and financial forecasting work.
+I am a Financial Data Analyst and Associate Chartered Accountant (ACA) with over a decade of experience in financial reporting, FP&amp;A and data analytics.
 
-My main portfolio — Power BI, SQL, Python, Databricks and NHS financial analytics — is on [github.com/TeslimAdeyanju](https://github.com/TeslimAdeyanju).
+I help organisations turn complex financial data into trusted, decision-ready insight. I combine finance and accounting expertise with Power BI, Databricks, Azure data services, SQL and Python to improve reporting quality, automate repeatable processes and strengthen financial controls.
+
+On this account I apply that finance lens to machine learning and AI: predictive models explained with SHAP, retrieval-augmented agents and LLM workflows that stay traceable and auditable. My main portfolio — Power BI, SQL, Databricks and NHS financial analytics — is on [github.com/TeslimAdeyanju](https://github.com/TeslimAdeyanju).
+
+> 💡 **Approach:** Finance expertise first; data and automation as the enablers. Clean data, controlled processes and transparent logic make better financial decisions possible.
 
 ---
 
