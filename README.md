@@ -4,7 +4,7 @@
     <img src="./assets/title-light.svg" alt="Teslim Uthman Adeyanju" width="800" />
   </picture>
   <br />
-  <em>Associate Chartered Accountant and Financial Data Analyst · Machine Learning · AI and LLM projects</em>
+  <em>Associate Chartered Accountant and Financial Data Analyst · Learning repositories and experimental AI agents</em>
   <br />
   <strong>Open to Finance and Data Analyst roles in the UK</strong> &nbsp;·&nbsp; Main portfolio: <a href="https://github.com/TeslimAdeyanju">github.com/TeslimAdeyanju</a>
 </p>
@@ -20,41 +20,26 @@
 
 ---
 
-## About Me
+## About This Account
 
-I am a Financial Data Analyst and Associate Chartered Accountant (ACA) with over a decade of experience in financial reporting, FP&amp;A and data analytics.
+This is my second GitHub account. It holds the repositories I learn from: forked courses and books, Super Data Science collaborations, studybooks, and a few experimental AI agents.
 
-I help organisations turn complex financial data into trusted, decision-ready insight. I combine finance and accounting expertise with Power BI, Databricks, Azure data services, SQL and Python to improve reporting quality, automate repeatable processes and strengthen financial controls.
-
-On this account I apply that finance lens to machine learning and AI: predictive models explained with SHAP, retrieval-augmented agents and LLM workflows that stay traceable and auditable. My main portfolio — Power BI, SQL, Databricks and NHS financial analytics — is on [github.com/TeslimAdeyanju](https://github.com/TeslimAdeyanju).
-
-> 💡 **Approach:** Finance expertise first; data and automation as the enablers. Clean data, controlled processes and transparent logic make better financial decisions possible.
+**All my portfolio projects** — Power BI, SQL, Python, Machine Learning, AI and financial analytics — **are on my main account: [github.com/TeslimAdeyanju](https://github.com/TeslimAdeyanju)**.
 
 ---
 
-## Projects by Skill
-
-<sub>Click a skill area to see its projects.</sub>
-
-<details open>
-<summary><strong>AI &amp; LLM Applications</strong></summary>
+## Experimental AI Agents
 
 <table>
   <thead>
     <tr>
       <th width="190">Project</th>
       <th width="200">Tech Stack</th>
-      <th width="370">Impact</th>
+      <th width="370">Description</th>
       <th width="140">Link</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><strong>Retrieval Agent System</strong></td>
-      <td>Python, RAG, Tool Calling</td>
-      <td>Retrieval agent with persistent search, tool calling, iterative retrieval, and typed agent frameworks, plus evaluation and monitoring</td>
-      <td><a href="https://github.com/UthmanAdeyanju/portfolio-25-retrieval-agent-system">View Project</a></td>
-    </tr>
     <tr>
       <td><strong>Email Agent</strong></td>
       <td>Python, Gmail API, Embeddings</td>
@@ -75,73 +60,14 @@ On this account I apply that finance lens to machine learning and AI: predictive
     </tr>
   </tbody>
 </table>
-</details>
 
-<details>
-<summary><strong>Machine Learning</strong></summary>
+---
 
-<table>
-  <thead>
-    <tr>
-      <th width="190">Project</th>
-      <th width="200">Tech Stack</th>
-      <th width="370">Impact</th>
-      <th width="140">Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Salary Prediction with SHAP</strong></td>
-      <td>Python, Neural Networks, SHAP</td>
-      <td>Deep learning salary model for 2024 ML roles, explained feature by feature with SHAP</td>
-      <td><a href="https://github.com/UthmanAdeyanju/portfolio-11-salary-prediction-shap">View Project</a></td>
-    </tr>
-    <tr>
-      <td><strong>Lead Conversion Model</strong></td>
-      <td>Python, Scikit-learn, Marimo</td>
-      <td>Classification model that predicts which leads convert, helping marketing teams prioritise high-value prospects</td>
-      <td><a href="https://github.com/UthmanAdeyanju/portfolio-12-lead-conversion-model">View Project</a></td>
-    </tr>
-    <tr>
-      <td><strong>Retail Marketing Prediction</strong></td>
-      <td>Python, Scikit-learn, Feature Engineering</td>
-      <td>Consumer behaviour model on marketplace data with engineered features and a saved, deployable model</td>
-      <td><a href="https://github.com/UthmanAdeyanju/portfolio-10-retail-marketing-prediction">View Project</a></td>
-    </tr>
-    <tr>
-      <td><strong>UK Immigration — YouTube Sentiment</strong></td>
-      <td>Python, NLP, Airflow</td>
-      <td>Sentiment analysis of YouTube comments on UK immigration, with an Airflow pipeline for collection</td>
-      <td><a href="https://github.com/UthmanAdeyanju/portfolio-13-youtube-sentiment-analysis">View Project</a></td>
-    </tr>
-  </tbody>
-</table>
-</details>
+## Learning Repositories
 
-<details>
-<summary><strong>Financial Analysis &amp; Management</strong></summary>
-
-<table>
-  <thead>
-    <tr>
-      <th width="190">Project</th>
-      <th width="200">Tech Stack</th>
-      <th width="370">Impact</th>
-      <th width="140">Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Financial Forecasting &amp; Variance Analysis</strong></td>
-      <td>Python, Pandas, Forecasting</td>
-      <td>Revenue and expense forecasting with budget vs actual variance analysis to identify the drivers of discrepancies</td>
-      <td><a href="https://github.com/UthmanAdeyanju/portfolio-04-financial-forecasting-variance">View Project</a></td>
-    </tr>
-  </tbody>
-</table>
-</details>
-
-Power BI, SQL, Python and NHS analytics projects are on my main account: [github.com/TeslimAdeyanju](https://github.com/TeslimAdeyanju)
+- **Studybooks:** [Python](https://github.com/UthmanAdeyanju/studybook-python-for-finance-and-data-science)&nbsp;· [SQL](https://github.com/UthmanAdeyanju/studybook-sql-for-finance-and-data-science)&nbsp;· [LLM](https://github.com/UthmanAdeyanju/studybook-llm-for-finance-and-data-science)&nbsp;· [R](https://github.com/UthmanAdeyanju/studybook-r-for-finance-and-data-science)
+- **Super Data Science collaborations:** [Diamond Price Predictor](https://github.com/UthmanAdeyanju/1-MyCollabrative-Project-SDS-CP023-diamond-price-predictor)&nbsp;· [Retail Pulse](https://github.com/UthmanAdeyanju/2-MyCollabrative-Project-SDS-CP026-retail-pulse)&nbsp;· [MLPayGrade](https://github.com/UthmanAdeyanju/3-MyCollabrative-Project-SDS-CP032-mlpaygrade)&nbsp;· [PowerCast](https://github.com/UthmanAdeyanju/4-MyCollabrative-Project-SDS-CP036-powercast)
+- **Forked courses and books:** repositories named `ForkN-…` in the [repository list](https://github.com/UthmanAdeyanju?tab=repositories&type=fork)
 
 ---
 
