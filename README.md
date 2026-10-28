@@ -4,16 +4,18 @@
     <img src="./assets/title-light.svg" alt="Teslim Uthman Adeyanju" width="800" />
   </picture>
   <br />
-  <em>ACA Chartered Accountant &amp; Financial Data Analyst · Machine Learning &amp; AI projects</em>
+  <em>Associate Chartered Accountant and Financial Data Analyst · Machine Learning · AI and LLM projects</em>
   <br />
-  <strong>Second account</strong> &nbsp;·&nbsp; Main portfolio: <a href="https://github.com/TeslimAdeyanju">github.com/TeslimAdeyanju</a>
+  <strong>Open to Finance and Data Analyst roles in the UK</strong> &nbsp;·&nbsp; Main portfolio: <a href="https://github.com/TeslimAdeyanju">github.com/TeslimAdeyanju</a>
 </p>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1fHPqIkPL0AxcLaYZeB4iRKCTUEeXivD8/view"><strong>View CV</strong></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/adeyanjuteslimuthman">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://github.com/TeslimAdeyanju">Main GitHub</a> &nbsp;·&nbsp;
-  <a href="https://adeyanjuteslim.co.uk">Portfolio</a>
+  <a href="https://adeyanjuteslim.co.uk">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://pypi.org/project/fda-toolkit/">FDA Toolkit on PyPI</a> &nbsp;·&nbsp;
+  <a href="mailto:info@adeyanjuteslim.co.uk">Email</a>
 </p>
 
 ---
